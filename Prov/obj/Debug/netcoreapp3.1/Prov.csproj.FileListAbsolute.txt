@@ -1,0 +1,13 @@
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\bin\Debug\netcoreapp3.1\Prov.exe
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\bin\Debug\netcoreapp3.1\Prov.deps.json
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\bin\Debug\netcoreapp3.1\Prov.runtimeconfig.json
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\bin\Debug\netcoreapp3.1\Prov.runtimeconfig.dev.json
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\bin\Debug\netcoreapp3.1\Prov.dll
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\bin\Debug\netcoreapp3.1\Prov.pdb
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\obj\Debug\netcoreapp3.1\Prov.csprojAssemblyReference.cache
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\obj\Debug\netcoreapp3.1\Prov.AssemblyInfoInputs.cache
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\obj\Debug\netcoreapp3.1\Prov.AssemblyInfo.cs
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\obj\Debug\netcoreapp3.1\Prov.csproj.CoreCompileInputs.cache
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\obj\Debug\netcoreapp3.1\Prov.dll
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\obj\Debug\netcoreapp3.1\Prov.pdb
+C:\Users\ludvig.andersson8\Desktop\Programmering\Programmeringsprov\Prov\obj\Debug\netcoreapp3.1\Prov.genruntimeconfig.cache
